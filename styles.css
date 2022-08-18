@@ -1,0 +1,63 @@
+header{background: #E6E6E6}
+img.batman{
+    text-align: center;
+    display:block;
+    margin:auto;
+    padding: 20.91px;}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    margin:0;
+    padding: 16px;
+    color: #005677;
+    background: #C4C4C4;
+   
+}
+
+h2 {font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #005677;
+    margin-top: 128px;
+    text-align: left;
+    background: #C4C4C4;
+    padding-top: 6px;
+    padding-bottom: 7px;
+    padding-left: 12.45px;
+}
+ul.datospersonales{font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: #000000;}
+li.diez {margin: 10px;}
+span.InsideList {font-style: normal;
+                font-weight: normal;}
+h2.fa{ margin-top: 35px;}
+ul.formacionacademica{font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: #000000;}
+.margen {margin-left: 75px;}
+footer{background: #005677;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Times New Roman';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 84.69%;
+        color: #FFFFFF;}
+img.iconos{
+            margin-left: 20px;}
