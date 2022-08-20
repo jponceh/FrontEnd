@@ -1,0 +1,96 @@
+.top{
+    background: #222222;
+    color: #F3F3F3;
+    width: 1025px;
+}
+.idioma{
+    list-style-type: none;
+    width: 1025px;
+}
+header{
+    background: #F0A83E;
+    color: #FFFFFF;
+    width: 1025px;
+}
+ul.huella{
+    color: #FFFFFF;
+    list-style-image: url(../img/pawprint.svg);
+    width: 1025px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 0px;
+    color: #3C2313;
+    width: 1025px;
+}
+div.main{
+    background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.svg);
+    height: 409px;
+    width: 1025px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #3C2313;
+    font-weight: bold;
+}
+h3{
+    text-align: center;  
+}
+span.come{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background-color: #F0A83E;
+}
+p{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #3C2313;
+
+}
+a{
+    color: #666666;
+    text-decoration: none;
+}
+.destacados{
+    background: #FBFAF6;
+    width: 1025px;
+    list-style-type: none;
+}
+.destacadosamarillo{
+    color: #F0A83E;
+    background: #FBFAF6;
+    width: 1025px;
+}
+footer{
+    background-color: #3C2313;
+    width: 1025px;
+}
+li.Title{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+
+}
+li.Detail{
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;    
+    color: #8A8787;
+}
+div.pie{
+    background: #F0A83E;
+    color: #FFFFFF;
+    width: 1025px;
+    text-align: center;
+
+}
