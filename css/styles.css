@@ -1,0 +1,134 @@
+div.BarDiscount {
+    background: #1CD1B0;
+    width: 1024px;
+    height: 38px;
+    color: black;
+    font-weight: 550;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 27px;
+    text-align: left;
+    box-sizing: border-box;
+    left: 0px;
+    top: 0px;
+}
+header {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1024px;
+    height: 101px;
+    left: 8px;
+    top: 46px;
+    background: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    padding: 28px;
+    color: black;
+    font-weight: 550;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card{
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 540px;
+    left: 32px;
+    top: 292px;
+    text-align: center;
+    margin-right: 30px;
+}
+.card1{
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 540px;
+    left: 32px;
+    top: 292px;
+    text-align: center;
+    margin-right: 30px;
+}
+.card2{
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 540px;
+    left: 32px;
+    top: 292px;
+    text-align: center;
+}
+.fondo{
+    margin: 0%;
+}
+.vector{
+    position: absolute;
+    left: 15px;
+    top: 15px
+}
+.batman{
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 90px;
+    top: 128px;
+    border-radius: 50%;
+}
+span{
+    display: inline-block;
+    position: relative;
+    top: 70px;
+    width: 122px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+p{
+    text-align: left;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #333333;
+}
+button{
+
+    width: 128.78px;
+    height: 48.52px;
+    margin-top: 37px;
+    margin-bottom: 18px;
+    background: #00669F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    border: 0;
+/* identical to box height */
+
+text-align: center;
+
+color: #F3F3F3;
+}
+section.texto{
+    margin-top: 0%;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+footer{
+position: absolute;
+width: 1024px;
+height: 51px;
+left: 8px;
+top: 972px;
+padding: 16px;
+background: #00669F;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 400;
+font-size: 16px;
+color: #FFF9F9;
+}
